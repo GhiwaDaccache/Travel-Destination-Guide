@@ -47,8 +47,10 @@
     justify-content: space-between;
 }
 
-.hero-image{
-    width: 60%;
+.landing-page p{
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #3F704D;
 }
 
 .destinations{
