@@ -39,9 +39,16 @@
 .landing-page{
     padding: 50px;
     margin: 50px;
-    background-color: black;
     height: 500px;
     width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-image{
+    width: 60%;
 }
 
 .destinations{
@@ -53,3 +60,8 @@
 }
 
 
+.test{
+    height: 50px;
+    width: 50px;
+    color: aqua;
+}
