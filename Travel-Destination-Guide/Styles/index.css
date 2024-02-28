@@ -27,5 +27,29 @@
     color: #d8e5b5;
 }
 
+.page{
+    background-color: #d8e5b5;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.landing-page{
+    padding: 50px;
+    margin: 50px;
+    background-color: black;
+    height: 500px;
+    width: 90%;
+}
+
+.destinations{
+    padding: 50px;
+    margin: 50px;
+    background-color: red;
+    height: 500px;
+    width: 90%;
+}
 
 
