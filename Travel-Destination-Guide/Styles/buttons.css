@@ -21,7 +21,7 @@
   color: #d8e5b5;
   background-color:#3F704D;
   width: 30%;
-  margin: 10px 30px;
+  margin: 10px 30px 0px 40px;
   cursor: pointer;
   text-align: center;
   font-size: 16px;
@@ -33,3 +33,4 @@
   color: #3F704D;
   background-color:#d8e5b5;
 }
+

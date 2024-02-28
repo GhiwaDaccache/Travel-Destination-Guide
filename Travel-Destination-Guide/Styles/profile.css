@@ -1,0 +1,12 @@
+.profile-page{
+    background-color: #d8e5b5;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.test{
+    height: 80%;
+    background-color: blue;
+}

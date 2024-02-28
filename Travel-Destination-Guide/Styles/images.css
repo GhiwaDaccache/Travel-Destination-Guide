@@ -8,3 +8,9 @@
     border-radius: 50px;
     border: 2px solid #2d324e;
 }
+
+.main-image{
+    max-height: 400px;
+    border-radius: 30px;
+    border: 2px solid #2d324e;
+}

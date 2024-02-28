@@ -1,0 +1,16 @@
+.destination-layout{
+    background-color: #d8e5b5;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.test{
+    padding: 50px;
+    font-size: 20px;
+    font-family: "quicksand", cursive;
+    color: #3F704D;
+    line-height: 30px;
+}

@@ -16,7 +16,7 @@
 }
 
 .container{
-    width: 60%;
+    width: 55%;
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -55,7 +55,7 @@
 
 .destinations{
     padding: 50px;
-    margin: 50px 50px 0px 50px;
+    margin: 50px 50px 5px 50px;
     height: 300px;
     width: 90%;
     display: flex;
@@ -88,3 +88,4 @@
     font-family: "Pacifico", cursive;
     color: #d8e5b5;
 }
+
