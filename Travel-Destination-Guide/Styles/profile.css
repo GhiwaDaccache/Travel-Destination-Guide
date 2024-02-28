@@ -2,8 +2,8 @@
     background-color: #d8e5b5;
     padding: 50px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-around;
+    align-items: top;
 }
 
 .personal-section{
@@ -19,7 +19,7 @@
     height: 400px;
     width: 200px;
     background-color: #3F704D;
-    font-size: 17px;
+    font-size: 18.5px;
     font-family: "quicksand", cursive;
     color: #d8e5b5;
     padding:20px;
@@ -27,15 +27,25 @@
     margin: 10px;
 }
 
-.testB{
-    height: 80%;
-    background-color: blue;
+.favorite-cities{
+    display: flex;
+    flex-direction: column;
+    justify-self: space-between;
+    align-items: center;
+    min-height: 600px;
 }
 
-.testB > p{
-    
+.favorite-cities > p{
+    font-size: 35px;
+    color: #3F704D;
+    font-family: "quicksand", cursive ;
 }
-.test{
-    height: 80%;
-    background-color: blue;
+
+.caption{
+    font-size: 25px;
+    color: #d8e5b5;
+    font-family: "quicksand", cursive ;
+    background-color: #3F704D;
+    padding:10px;
+    border-radius: 20px;
 }
