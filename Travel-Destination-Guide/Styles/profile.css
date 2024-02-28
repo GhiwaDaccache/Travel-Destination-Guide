@@ -6,6 +6,35 @@
     align-items: center;
 }
 
+.personal-section{
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.bio{
+    height: 400px;
+    width: 200px;
+    background-color: #3F704D;
+    font-size: 17px;
+    font-family: "quicksand", cursive;
+    color: #d8e5b5;
+    padding:20px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.testB{
+    height: 80%;
+    background-color: blue;
+}
+
+.testB > p{
+    
+}
 .test{
     height: 80%;
     background-color: blue;
