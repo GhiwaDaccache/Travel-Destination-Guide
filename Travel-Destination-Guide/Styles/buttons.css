@@ -15,3 +15,21 @@
   background-color: #3F704D;
   color:#d8e5b5;
 }
+
+.destination-button{
+  border: none;
+  color: #d8e5b5;
+  background-color:#3F704D;
+  width: 30%;
+  margin: 10px 30px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Pacifico", cursive;
+  border-radius: 5px;
+}
+
+.destination-button:hover{
+  color: #3F704D;
+  background-color:#d8e5b5;
+}
