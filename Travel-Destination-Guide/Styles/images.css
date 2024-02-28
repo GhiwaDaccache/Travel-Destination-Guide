@@ -1,3 +1,8 @@
 .hero-image{
     width: 60%;
 }
+
+.destination-image{
+    width: 40%;
+    max-height: 300px;
+}
